@@ -56,10 +56,7 @@ The script securely reads your Telegram credentials from the Shelly's internal s
 - Create a new script, paste the entire content of `waterMeter.js` into it, and save.
 - Turn on the **"Enable on boot"** toggle.
 - Click **Start** to run the script. You should receive a startup message on Telegram!
-
 ---
----
-
 ## 🇫🇷 Version Française
 
 ### Qu'est-ce que le Shelly Plus Uni ?
